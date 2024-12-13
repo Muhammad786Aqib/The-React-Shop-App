@@ -1,6 +1,6 @@
 # TheShopApp
 
-A react-native app for Android and iOS which provides a basic b2c shop. The app is from the udemy course 'React Native - The Practical Guide' from Maximilian Schwarzmüller.
+A react-native app for Android and iOS which provides a basic b2c shop.
 
 ## What I Learned
 * Working with React 16.X.X
