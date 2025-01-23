@@ -2,15 +2,7 @@
 
 A react-native app for Android and iOS which provides a basic b2c shop.
 
-## What I Learned
-* Working with React 16.X.X
-* Working with react-navigation 3.XX.X
-* Advanced app styling
-* Usage of Hooks
-* Usage of Redux (single source of truth, state is read-only, changes are made with pure functions)
-* Usage of Redux Thunk 
-* Authentication with Google Firebase
-* REST CRUD operations with Google Firebase
+
 
 ## Setup
 
